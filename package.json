@@ -41,7 +41,7 @@
     "nomnom": "^1.8.1",
     "recast": "^0.15.0",
     "temp": "^0.8.1",
-    "write-file-atomic": "^1.2.0"
+    "write-file-atomic": "^3.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
